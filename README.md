@@ -1,5 +1,4 @@
 # SCT_DS_1
-# SCT_DS_1
 
 ## Task 1 - Sales Dashboard
 
