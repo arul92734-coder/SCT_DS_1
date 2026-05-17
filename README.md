@@ -23,3 +23,16 @@ Performed:
 
 ### Tools Used
 - Microsoft Excel
+# SCT_DS_3
+## Task 3 - Interactive Dashboard
+
+Created an interactive dashboard using Power BI.
+
+### Features
+- Sales analysis
+- Profit analysis
+- Category-wise insights
+- Interactive visualizations
+
+### Tools Used
+- Microsoft Power BI
