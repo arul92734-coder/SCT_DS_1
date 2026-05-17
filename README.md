@@ -36,3 +36,16 @@ Created an interactive dashboard using Power BI.
 
 ### Tools Used
 - Microsoft Power BI
+# SCT_DS_4
+## Task 4 Business Insights Report
+
+Performed exploratory data analysis using Power BI.
+
+### Visualizations Created
+- Sales by Product
+- Profit by Segment
+- Sales by Segment
+
+### Tools Used
+- Power BI
+- Excel Dataset
